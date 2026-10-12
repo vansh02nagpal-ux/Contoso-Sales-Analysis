@@ -149,9 +149,12 @@ The dashboard brings key sales and profitability metrics together in a single in
 | `Contoso Sales Report.pbix` | Power BI report containing the interactive sales performance dashboard |
 | `contoso-dashboard.png` | Dashboard screenshot for a quick visual preview |
 | `README.md` | Project documentation, dashboard overview, features, and technical details |
+
 ### 📥 Download Power BI Dashboard
 
-[Download Contoso Sales Report (.pbix)](https://drive.google.com/file/d/1DlwRq6zA3MAYZhrBDjf6UbC05mtyrsl5/view?usp=sharing)
+[⬇️ Download Contoso Sales Report (.pbix)](https://github.com/vansh02nagpal-ux/Contoso-Sales-Analysis/raw/refs/heads/main/Contoso%20Sales%20Report.pbix)
+
+*Download the Power BI file and open it in Microsoft Power BI Desktop to explore the interactive report.*
 ---
 
 ## 👨‍💻 Author
